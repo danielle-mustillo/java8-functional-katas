@@ -1,4 +1,4 @@
-package katas;
+package extras;
 
 import model.Movie;
 import util.DataUtil;

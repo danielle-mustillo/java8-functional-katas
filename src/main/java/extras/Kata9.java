@@ -1,4 +1,4 @@
-package katas;
+package extras;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
